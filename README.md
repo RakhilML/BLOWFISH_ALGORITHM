@@ -16,6 +16,8 @@ ciphertext yields the original plaintext.
 
 Run the .ipynb file(blowfish_encrypt_decrypt.ipynb), while running the decrypt function, There may not be the desired decrypted text. just Run only the decrypt function again to get the desired result.
 
+Results are shown in the jupyter notebook. 
+
 # IMAGE ENCRYPTION USING BLOWFISH ALGORITHM 
 Developed a application for Image Encryption and Decryption. The Folder IMAGE_ENCRYPTION consists the files
 give the password.jpg as input or you can replace with any other jpg/jpeg file. the code processesss and saves the following files
