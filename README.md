@@ -23,6 +23,22 @@ Developed a application for Image Encryption and Decryption. The Folder IMAGE_EN
 give the password.jpg as input or you can replace with any other jpg/jpeg file. the code processesss and saves the following files
 (Compressed_password.jpg, encode.bin, cipher.txt, decrpted_password.jpg) which are uploaded to the folder for reference. Make sure the jpg/jpeg and py/ipynb are in the same directory.
 
+# AUDIO ENCRYPTION USING BLOWFISH ALGORITHM
+
+This implementation showcases the practical application of the Blowfish algorithm
+in securing audio data. The key initialization, generation, and encryption processes
+collectively contribute to enhancing the confidentiality and integrity of audio files.
+Key Initialization The Blowfish algorithm for audio encryption begins with initializing substitution boxes (S-Boxes) and permutation boxes (P-Boxes) essential for the
+encryption process. These boxes are initialized with predefined hexadecimal values
+and derived from the digits of pi. The folder AUDIO_ENCRYPTION consists the files after compiling
+
+# VIDEO ENCRYPTION USING BLOWISH ALGORITHM
+
+This implementation showcases the practical application of the Blowfish algorithm
+in securing video data. The key initialization, generation, and encryption processes
+collectively contribute to enhancing the confidentiality and integrity of video files.
+The folder VIDEO_ENCRYPTION consista the files after compiling
+
 
 Blowfish is a popular choice for several reasons, It has undergone rigorous testing
 and proven its security. It achieves speed by leveraging built-in instructions on contemporary microprocessors for fundamental bit manipulation operations. Blowfish
